@@ -1,4 +1,4 @@
-const credentials = require('./credentials.js')
+
 const request = require('request')
 var local
 var local2
